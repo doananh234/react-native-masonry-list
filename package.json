@@ -12,7 +12,9 @@
   },
   "keywords": [
     "react-native",
-    "zig-zag-list"
+    "zig-zag-list",
+    "zig-zag",
+    "flatlist"
   ],
   "author": "Anh Doan <doananh234@gmail.com> (https://github.com/doananh234)",
   "license": "",
