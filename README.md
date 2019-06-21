@@ -12,8 +12,8 @@
 
 [Do you want to find out more?](#layouts-and-custom-interpolations)
 
-![react-native-zig-zag-list ios layout][Imgur](https://i.imgur.com/U0ZmIL8.gifv)
-![react-native-zig-zag-list android layout][Imgur](https://i.imgur.com/wG0o6sP.gifv)
+![react-native-zig-zag-list ios layout](https://i.imgur.com/e1WbZcu.gif)
+![react-native-zig-zag-list android layout](https://i.imgur.com/wG0o6sP.gif)
 
 ## Usage
 ```javascript
