@@ -1,0 +1,19 @@
+{
+  "name": "react-native-zig-zag-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "zig-zag-list"
+  ],
+  "author": "Anh Doan <doananh234@gmail.com> (https://github.com/doananh234)",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "*",
+    "prop-types": "*"
+  }
+}
