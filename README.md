@@ -6,6 +6,15 @@
 `$ npm install react-native-zig-zag-list --save`
 
 
+-----
+
+### :raised_hands: New feature: layouts
+
+[Do you want to find out more?](#layouts-and-custom-interpolations)
+
+![react-native-zig-zag-list ios layout][Imgur](https://i.imgur.com/U0ZmIL8.gifv)
+![react-native-zig-zag-list android layout][Imgur](https://i.imgur.com/wG0o6sP.gifv)
+
 ## Usage
 ```javascript
 import React, { useState, useEffect } from 'react';
