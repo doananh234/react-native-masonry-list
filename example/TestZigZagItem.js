@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
       height: 3,
       width: 0,
     },
-    elevation: 1,
+    elevation: 3,
   },
   image: {
     position: 'absolute',

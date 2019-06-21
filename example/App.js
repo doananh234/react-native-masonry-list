@@ -28,6 +28,8 @@ const App = () => {
   }, []);
   return (
     <ZigZagList
+      paddingHorizontal={10}
+      separator={15}
       contentContainerStyle={styles.contentContainerStyle}
       style={styles.container}
       data={data}
